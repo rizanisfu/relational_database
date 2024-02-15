@@ -1,6 +1,3 @@
--- Contoh Penggunaan Git Branch
-
-
 -- NO 1: Create database alta_online_shop:
 CREATE schema alta_online_shop;
 
